@@ -1,0 +1,11 @@
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\bin\Debug\netcoreapp3.0\ArrayHelpTask.exe
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\bin\Debug\netcoreapp3.0\ArrayHelpTask.deps.json
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\bin\Debug\netcoreapp3.0\ArrayHelpTask.runtimeconfig.json
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\bin\Debug\netcoreapp3.0\ArrayHelpTask.runtimeconfig.dev.json
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\bin\Debug\netcoreapp3.0\ArrayHelpTask.dll
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\bin\Debug\netcoreapp3.0\ArrayHelpTask.pdb
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\obj\Debug\netcoreapp3.0\ArrayHelpTask.csprojAssemblyReference.cache
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\obj\Debug\netcoreapp3.0\ArrayHelpTask.AssemblyInfoInputs.cache
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\obj\Debug\netcoreapp3.0\ArrayHelpTask.AssemblyInfo.cs
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\obj\Debug\netcoreapp3.0\ArrayHelpTask.dll
+C:\Users\Bacha\source\repos\ArrayHelpTask\ArrayHelpTask\obj\Debug\netcoreapp3.0\ArrayHelpTask.pdb
